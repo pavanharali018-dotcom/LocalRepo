@@ -6,3 +6,4 @@ arr.pop();
 console.log(arr);
 arr.push(7);
 console.log(arr);
+console.log(arr.slice(1,4));
