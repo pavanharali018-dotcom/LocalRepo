@@ -4,3 +4,5 @@ arr.push(6);
 console.log(arr);
 arr.pop();
 console.log(arr);
+arr.push(7);
+console.log(arr);
