@@ -6,4 +6,8 @@ arr.pop();
 console.log(arr);
 arr.push(7);
 console.log(arr);
+<<<<<<< HEAD
 console.log(arr.slice(1,3));
+=======
+console.log(arr.slice(1,4));
+>>>>>>> main
